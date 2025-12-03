@@ -22,7 +22,7 @@ You can easily run the game by opening the `index.html` file in any browser.
 ## 🛠️ Technologies Used
 - **HTML5** – Structure  
 - **CSS3** – Styling  
-- **JavaScript (Vanilla JS)** – Game logic  
+- **JavaScript** – Game logic  
 
 ---
 
