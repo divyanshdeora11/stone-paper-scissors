@@ -1,2 +1,29 @@
-# stone-paper-scissors
-A simple Stone Paper Scissors game built using (HTML, CSS and JavaScript).
+# 🪨📄✂️ Stone Paper Scissors Game
+
+A simple and interactive **Stone–Paper–Scissors Game** built using **HTML, CSS, and JavaScript**.  
+This mini project is perfect for beginners who want to practice DOM manipulation, event handling, and basic game logic using JavaScript.
+
+---
+
+## 🚀 Demo
+You can easily run the game by opening the `index.html` file in any browser.
+
+---
+
+## 🎮 Features
+- ✔️ User vs Computer gameplay  
+- ✔️ Random computer choices  
+- ✔️ Score tracking  
+- ✔️ Responsive UI  
+- ✔️ Clean and simple design  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript (Vanilla JS)** – Game logic  
+
+---
+
+## 📂 Project Structure
