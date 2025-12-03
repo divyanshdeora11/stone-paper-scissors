@@ -27,3 +27,7 @@ You can easily run the game by opening the `index.html` file in any browser.
 ---
 
 ## 📂 Project Structure
+/stone-paper-scissors
+│── index.html
+│── style.css
+└── script.js
